@@ -1,1 +1,1 @@
-# Snowflake_dimension_modelling
+# Snowflake
